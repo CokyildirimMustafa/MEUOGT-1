@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\assets\\scripts\\dusmanscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusmanscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|c:\\users\\devel\\desktop\\projelerim\\meuetkinlik#1\\assets\\scripts\\kayitnoktasiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kayitnoktasiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\assets\\scripts\\karakterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\karakterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\assets\\scripts\\saldiriscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saldiriscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\assets\\scripts\\kamerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC5F420-B9CD-1284-C6CB-979AF1849615}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kamerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kayitNoktasiScript.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\kayitNoktasiScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\kayitNoktasiScript.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\kayitNoktasiScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\kayitNoktasiScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:18:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "saldiriScript.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\saldiriScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\saldiriScript.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\saldiriScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\saldiriScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:38:39.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dusmanScript.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\dusmanScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\dusmanScript.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\dusmanScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\dusmanScript.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:19:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kameraScript.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\kameraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\kameraScript.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\kameraScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\kameraScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:06:43.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "karakterScript.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\karakterScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\karakterScript.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\projelerim\\MeuEtkinlik#1\\Assets\\Scripts\\karakterScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\karakterScript.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwJUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:42:05.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
